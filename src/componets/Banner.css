@@ -1,0 +1,21 @@
+.home {
+    max-width: 1500px;
+    margin: 0 auto;
+ 
+}
+
+.home__img{
+    width: 100%;
+    mask-image: linear-gradient(to bottom, black, green);
+    -webkit-mask-image: linear-gradient(194deg,  rgba(0,0,0,1), rgba(0,0,0,0));
+   mask-image: linear-gradient(184deg, rgba(0,0,0,1), rgba(0,0,0,0));
+   /* background-position: center ; */
+   z-index: -1;
+   margin-bottom: -140px;
+}
+
+.home__row{
+    display: flex;
+    z-index: 1;
+    /* margin-bottom: -150px; */
+}

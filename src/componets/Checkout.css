@@ -1,0 +1,8 @@
+.checkout__add {
+    object-fit: cover;
+    height: 200px;
+    width: 100vw;
+    /* background-attachment: scroll; */
+    margin-bottom: 10px;
+}
+
