@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/amazon/static/css/main.0f91b7dd.css",
+    "main.js": "/amazon/static/js/main.df67461a.js",
+    "static/js/787.54dff134.chunk.js": "/amazon/static/js/787.54dff134.chunk.js",
+    "static/media/ban_ner.jpg": "/amazon/static/media/ban_ner.2b1e78433db976c6fc5c.jpg",
+    "static/media/bg-3.jpg": "/amazon/static/media/bg-3.caed584f0cb4dbbc3f0a.jpg",
+    "static/media/logo_am.png": "/amazon/static/media/logo_am.c258172cbbfae08cdc8d.png",
+    "index.html": "/amazon/index.html",
+    "main.0f91b7dd.css.map": "/amazon/static/css/main.0f91b7dd.css.map",
+    "main.df67461a.js.map": "/amazon/static/js/main.df67461a.js.map",
+    "787.54dff134.chunk.js.map": "/amazon/static/js/787.54dff134.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f91b7dd.css",
+    "static/js/main.df67461a.js"
+  ]
+}
